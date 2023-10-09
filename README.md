@@ -1,2 +1,2 @@
-# k8s_wordpress
-Teste com Kubernetes e deploy de CRM WordPress
+# k8s Wordpress
+Manifestos para um deploy simples do Wordpress com banco de dados MySQL.
